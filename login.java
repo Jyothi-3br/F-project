@@ -1,6 +1,9 @@
-njvnj
-vfdvjdf
-dfk
-879093
-344223
-
+public class login
+{
+	public static void main(string args[])
+	{
+		int i;
+		for(i=55):
+		s.o.p("numbr:"+i);
+	}
+}
